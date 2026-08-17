@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-08-13T13:43:48Z
-Entry: feat: implement initial core logic and pipeline structure
-Sequence: 81/99
+Last updated: 2026-08-17T11:33:38Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 82/99
